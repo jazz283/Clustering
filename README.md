@@ -1,0 +1,1 @@
+In this project, we were trying to explore a dataset that summarizes the usage behavior of approximately 9,000 active credit card holders over the last 6 months. The dataset contains 17 behavioral variables at the customer level.
